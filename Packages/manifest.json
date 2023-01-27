@@ -3,7 +3,8 @@
     "com.unity.render-pipelines.universal": "14.0.5",
     "com.unity.surface-gradient-bump-mapping": "0.2.0",
     "jp.keijiro.danish-statues": "1.0.0",
-    "jp.keijiro.metamesh": "1.1.1"
+    "jp.keijiro.metamesh": "1.1.1",
+    "jp.keijiro.metatex": "1.0.4"
   },
   "scopedRegistries": [
     {
