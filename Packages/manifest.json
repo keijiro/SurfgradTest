@@ -4,7 +4,8 @@
     "com.unity.surface-gradient-bump-mapping": "0.2.0",
     "jp.keijiro.danish-statues": "1.0.0",
     "jp.keijiro.metamesh": "1.1.1",
-    "jp.keijiro.metatex": "1.0.4"
+    "jp.keijiro.metatex": "1.0.4",
+    "jp.keijiro.shadergraphassets": "2.5.2"
   },
   "scopedRegistries": [
     {
