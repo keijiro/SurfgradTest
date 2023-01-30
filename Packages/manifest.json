@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.recorder": "4.0.0",
     "com.unity.render-pipelines.universal": "14.0.5",
     "com.unity.surface-gradient-bump-mapping": "0.2.0",
     "com.unity.timeline": "1.7.2",
